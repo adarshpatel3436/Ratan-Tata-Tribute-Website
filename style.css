@@ -92,10 +92,16 @@ img{
     
 }
 
-footer p{
-    margin: 20px 0;
+footer h5{
+     margin: 20px 0;
     text-align: end;
+}
+footer p{
+    margin: 10px 0;
+    text-align: center;
     
 }
+
+
 
 
