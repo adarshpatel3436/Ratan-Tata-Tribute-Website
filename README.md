@@ -19,14 +19,6 @@ The design focuses on simplicity, readability, and a clean biography-style layou
 
 ---
 
-## 🖼️ Preview
-```
-<img width="1122" height="864" alt="image" src="https://github.com/user-attachments/assets/e5b757d9-e7cf-4806-9d1a-30820f4eed05" />
-
-```
-
----
-
 ## 🛠️ Tech Stack
 
 * **HTML5** – Structure
@@ -72,4 +64,9 @@ project-folder/
 
 This tribute website is created with deep respect for **Ratan Tata**, summarising his public contributions to India and the world.
 If any detail is inaccurate, please consider it an honest mistake.
+
+---
+
+## 🖼️ Preview
+<img width="605" height="893" alt="image" src="https://github.com/user-attachments/assets/da20c711-4996-4d31-9bed-95926378017a" />
 
