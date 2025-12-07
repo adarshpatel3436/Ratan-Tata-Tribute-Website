@@ -68,5 +68,5 @@ If any detail is inaccurate, please consider it an honest mistake.
 ---
 
 ## 🖼️ Preview
-<img width="605" height="893" alt="image" src="https://github.com/user-attachments/assets/da20c711-4996-4d31-9bed-95926378017a" />
+<img width="355" height="878" alt="image" src="https://github.com/user-attachments/assets/95d859cb-c55e-4d95-9e3f-b27d42c15710" />
 
